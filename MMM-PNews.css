@@ -1,0 +1,19 @@
+.MMM-PNews .p{
+	text-align: justify
+}
+.MMM-PNews .span {
+	border-spacing: 10px 0px;
+    border-collapse: separate;
+    text-align: center;
+}
+.MMM-PNews .imgDes {
+  width: 13%;
+  height: 13%;
+  margin-left: 10px;
+  margin-right: 10px;
+  overflow: hidden;
+  float: left;
+}
+.MMM-PNews .date {
+	float: left;
+}
