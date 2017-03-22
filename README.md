@@ -11,7 +11,7 @@ and get your free api key... free and easy!!
 ---------------Installation from a terminal window-------------------
 ~MagicMirror/modules
 
-git clone https://github.com/cowboysdude/MMM-News
+git clone https://github.com/cowboysdude/MMM-PNews
 
 npm install
 
