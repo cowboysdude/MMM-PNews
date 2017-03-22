@@ -36,7 +36,7 @@
           var self = this;
           moment.locale(config.language);
           this.today = "";
-          this.url = "https://newsapi.org/v1/articles?source=" + this.config.newsSource + "&sortBy=top&apiKey=";
+          this.url = "https://newsapi.org/v1/articles?source=" + this.config.newsSource + "&sortBy=latest&apiKey=";
           this.news = {};
           this.aItem = 0;
           this.rotate = null;
