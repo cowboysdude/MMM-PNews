@@ -19,7 +19,7 @@ npm install
 
 Config.js options:
 
-{
+               {
 			 module: 'MMM-PNews',
 			 position: 'bottom_bar',
 	 	  config: {
@@ -29,14 +29,14 @@ Config.js options:
 			  }
 		 },
      
-     Configurable options:
+   Configurable options:
      maxWidth: can use px or %.... the above configuration would be used for bottom_bar location.
                example top_left or top_right -  250px;
                
      newsSource:  default news source:  "usa-today"
      List of possible sources:
      
-     "the-next-web"
+"the-next-web"
 "time"
 "usa-today"
 "the-washington-post"
