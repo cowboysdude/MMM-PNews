@@ -1,5 +1,5 @@
 
-   /* Magic Mirror
+    /* Magic Mirror
     * Module: MMM-PNews
     *
     * By Cowboysdude
