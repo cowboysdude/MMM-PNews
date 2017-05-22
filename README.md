@@ -13,7 +13,7 @@ and get your free api key... free and easy!!
 
 git clone https://github.com/cowboysdude/MMM-PNews
 
-npm install
+
 
 ---------------------------------------------------------------------
 
