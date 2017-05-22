@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/cowboysdudes/MMM-PNews#readme",
   "dependencies": {
-  	"request": "^2.79.0"
   },
   "devDependencies": {}
 }
