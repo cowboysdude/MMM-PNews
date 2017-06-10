@@ -1,5 +1,6 @@
 
-    /* Magic Mirror
+  
+   /* Magic Mirror
     * Module: MMM-PNews
     *
     * By Cowboysdude
@@ -62,9 +63,11 @@
 				this.aItem = 0;
 			}
          var news = this.news[keys[this.aItem]];
+         
          var newsLogo = document.createElement("div");
          var newsIcon = document.createElement("img");
-         newsIcon.src = news.urlToImage;
+         var icon = 'modules/MMM-Pnews/img/news.png';
+         newsIcon.src = news.urlToImage === "" || undefined || null ? icon : news.urlToImage;
          newsIcon.classList.add("imgDes");
          newsLogo.appendChild(newsIcon);
          newsdiv.appendChild(newsLogo);
