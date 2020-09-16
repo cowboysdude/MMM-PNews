@@ -1,4 +1,4 @@
-# MMM-News
+# MMM-PNews
 MM2 News Module
 
 News articles with pictures and brief description.
